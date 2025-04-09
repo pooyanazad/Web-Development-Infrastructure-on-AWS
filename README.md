@@ -8,8 +8,8 @@ This project sets up a complete infrastructure for web development using AWS ser
 
 ## Prerequisites
 
-- [Terraform](https://www.terraform.io/downloads.html) (v1.0+)
-- [AWS CLI](https://aws.amazon.com/cli/) configured with appropriate credentials
+- [Terraform](https://www.terraform.io/downloads.html)
+- [AWS CLI](https://aws.amazon.com/cli/) configured with credentials
 - [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/) for Kubernetes interaction
 
 ## Quick Start
